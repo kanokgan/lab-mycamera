@@ -29,10 +29,10 @@ function myFilter(camPhotoImage) {
 		// When the image is loaded, draw it.
 		myImage.onload = function () {
 			// Load the image into the context.
-			ctx.drawImage(myImage, 0, 0, canvas.width, canvas.height);
+			ctx.drawImage(myImage, canvas.width/4, canvas.height/4, canvas.width/2, canvas.height/2);
 
-			removeRedColorFilter(canvas.width, canvas.height);
-			putColorData();
+			//removeRedColorFilter(canvas.width, canvas.height);
+			//putColorData();
 
 		}
 
