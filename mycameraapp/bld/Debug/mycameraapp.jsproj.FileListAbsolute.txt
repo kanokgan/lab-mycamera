@@ -1,0 +1,13 @@
+C:\repo\handonlaps\mycameraapp\mycameraapp\bin\Debug\resources.pri
+C:\repo\handonlaps\mycameraapp\mycameraapp\bin\Debug\AppxManifest.xml
+C:\repo\handonlaps\mycameraapp\mycameraapp\bin\Debug\mycameraapp.build.appxrecipe
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\priconfig.xml
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\layout.resfiles
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\resources.resfiles
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\pri.resfiles
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\LanguageQualifiers.txt
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\ProjectArchitectures.txt
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\priconfig.xml.intermediate
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\layout.resfiles.intermediate
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\resources.resfiles.intermediate
+C:\repo\handonlaps\mycameraapp\mycameraapp\bld\Debug\pri.resfiles.intermediate
